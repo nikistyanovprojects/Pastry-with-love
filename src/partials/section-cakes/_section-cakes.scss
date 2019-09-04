@@ -114,7 +114,11 @@
     }
     .textlabel {
       max-width: 154px;
+<<<<<<< HEAD
       min-height: 140px;
+=======
+      max-height: 140px;
+>>>>>>> 92dbbf3f11e0658f63cd0e8634a5281cf5fed467
       position: relative;
       word-wrap: break-word;
       left: 66px;
@@ -122,7 +126,11 @@
       font-family: $fontheadings;
       font-size: 30px;
       line-height: 30px;
+<<<<<<< HEAD
       letter-spacing: 0.5px;
+=======
+      letter-spacing: 0.5;
+>>>>>>> 92dbbf3f11e0658f63cd0e8634a5281cf5fed467
       color: $labeltextcolor;
       text-align: center;
     }
